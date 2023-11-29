@@ -1,1 +1,26 @@
-
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js",
+    "watch": "node-sass src/resources/scss/app.scss src/public/css/app.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenhung17072001/nodejs_project1.git"
+  },
+  "keywords": [
+    "hung"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenhung17072001/nodejs_project1/issues"
+  },
+  "homepage": "https://github.com/nguyenhung17072001/nodejs_project1#readme",
+  
+  
+}
